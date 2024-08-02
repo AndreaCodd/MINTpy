@@ -4,5 +4,6 @@
 Commeni 4 example.
 
 
-/home/andrea/MINTpaperResubmit/MT_BFGS+smoothing/figures/compInputWithNumbers.png
+![image](https://github.com/user-attachments/assets/d44aca0c-ace7-47a0-bf46-254c8ede2b27)
+
 
